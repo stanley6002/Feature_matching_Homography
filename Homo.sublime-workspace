@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rott",
+				"Rott_transpose"
+			],
+			[
+				"matrix",
+				"matrix_transpose"
+			],
+			[
+				"NUM",
+				"num_pts"
+			],
+			[
+				"Num",
+				"Num_j"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"T",
+				"Tao"
+			],
+			[
+				"maxi",
+				"maximum_number"
+			],
+			[
+				"fram",
+				"frame_index2"
+			],
+			[
+				"frame",
+				"frame_index1"
+			],
+			[
+				"fr",
+				"frame_index2"
+			],
+			[
+				"p",
+				"pl"
+			],
+			[
+				"getYaw",
+				"getYawPitchRoll"
+			],
+			[
+				"Y",
+				"Yaw"
+			],
+			[
+				"Free",
+				"FreeIMU"
+			],
+			[
+				"DEBUG",
+				"DEBUG_PRINT"
+			],
+			[
+				"DEB",
+				"DEBUG_PRINT"
+			],
+			[
+				"Nu",
+				"NumofPoints"
+			],
+			[
+				"In",
+				"Index_imageR"
+			],
+			[
+				"N",
+				"NumofPoints"
+			],
+			[
+				"Index",
+				"Index_imageL"
+			],
+			[
+				"nu",
+				"numimage_i"
+			],
+			[
+				"refin",
+				"refined_pts"
+			],
+			[
+				"re",
+				"refined_pts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"si",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/Opencvheader.h",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/Mousecallbackfunc.h",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/Mousecallbackfunc.cpp",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/Homography_Transformation .h",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/main.cpp",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/feature_matche.h",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/feature_matche.cpp",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/DataType_.h",
+		"/Users/chih-hsiangchang/Documents/Homography_Calibration/Homography_Calibration/Homography_Transformation .cpp",
+		"/Research_folder/test_1/test_1/3D_triangulation.cpp",
+		"/Research_folder/test_1/test_1/main_image.cpp",
+		"/Research_folder/test_1/test_1/feature_track.cpp",
+		"/Research_folder/test_1/test_1/SURF_feature_matching .cpp",
+		"/Users/chih-hsiangchang/Desktop/:jj_33.jpg",
+		"/Research_folder/test_1/test_1/camera_refinement.h",
+		"/Research_folder/test_1/test_1/epipolar.h",
+		"/Research_folder/test_1/test_1/epipolar.c",
+		"/Research_folder/test_1/test_1/3D_triangulation.h",
+		"/Users/chih-hsiangchang/Desktop/untitled folder 2/FreeSixIMU.h",
+		"/Users/chih-hsiangchang/Desktop/untitled folder 2/FreeSixIMU.cpp",
+		"/Users/chih-hsiangchang/Desktop/untitled folder 2/FIMU_ITG3200.cpp",
+		"/Users/chih-hsiangchang/Desktop/IMMSE.m",
+		"/Users/chih-hsiangchang/Desktop/t_matrix.txt",
+		"/data.txt",
+		"/Users/chih-hsiangchang/Downloads/emgm/emgm/emgm.m",
+		"/Users/chih-hsiangchang/Downloads/emgm/emgm/logsumexp.m",
+		"/Users/chih-hsiangchang/Downloads/emgm/emgm/spread.m",
+		"/Users/chih-hsiangchang/Desktop/Archive/result.ply",
+		"/Research_folder/test_1/test_1/Bundle.cpp",
+		"/openfinal/openfinal/bundler-v0.4-source/lib/imagelib/horn.c",
+		"/Users/chih-hsiangchang/Downloads/Test_WebGL/demos/fixed_function/demo.js",
+		"/Users/chih-hsiangchang/Downloads/Test_WebGL/demos/fixed_function/index.html",
+		"/t_matrix.txt",
+		"/Users/chih-hsiangchang/Downloads/ann_1.1.2/test/rand.cpp",
+		"/Users/chih-hsiangchang/Google Drive/install Ubuntu 12.04 Desktop on EC2",
+		"/Users/chih-hsiangchang/Desktop/amazon ec2",
+		"/Users/chih-hsiangchang/Downloads/edison_matlab_interface/edison_wrapper.m",
+		"/Users/chih-hsiangchang/Downloads/pmvs-2/program/main/run0.sh",
+		"/Users/chih-hsiangchang/Downloads/Test_WebGL/clouds/pete_U_D.ply",
+		"/Users/chih-hsiangchang/Downloads/Test_WebGL/demos/acorn/acorn.js",
+		"/Users/chih-hsiangchang/Downloads/XB-PointStream-master/demos/lion/lion.js",
+		"/Users/chih-hsiangchang/Downloads/xbps-min/untitled.html",
+		"/openfinal/openfinal/bundler-v0.4-source/src/Register.cpp",
+		"/Volumes/NO NAME/Boram/alsa-lib-1.0.27.2/src/alisp/Makefile.in",
+		"/Volumes/NO NAME/Boram/alsa-lib-1.0.27.2/alsalisp/alsalisp.c",
+		"/Users/chih-hsiangchang/Documents/Arduino/libraries/bmp085driver/BMP085.h",
+		"/Users/chih-hsiangchang/Documents/Arduino/libraries/FreeIMU/FreeIMU.h",
+		"/Users/chih-hsiangchang/Downloads/FreeIMU-20121122_1126-5/libraries/FreeIMU/examples/FreeIMU_raw/FreeIMU_raw.pde",
+		"/Users/chih-hsiangchang/Downloads/FreeIMU-20121122_1126-5/libraries/FreeIMU/examples/FreeIMU_yaw_pitch_roll/FreeIMU_yaw_pitch_roll.pde",
+		"/Users/chih-hsiangchang/Downloads/FreeIMU-20121122_1126-5/processing/FreeIMU_yaw_pitch_roll/FreeIMU_yaw_pitch_roll.pde",
+		"/Users/chih-hsiangchang/Downloads/FreeIMU-20121122_1126-5/libraries/FreeIMU/FreeIMU.cpp",
+		"/Users/chih-hsiangchang/Downloads/FreeIMU-20121122_1126-5/libraries/DebugUtils/DebugUtils.h",
+		"/Users/chih-hsiangchang/Downloads/_13_ITG3200_ADXL345_on_chip-18/_13_ITG3200_ADXL345_on_chip.pde",
+		"/Users/chih-hsiangchang/Downloads/_13_ITG3200_ADXL345_on_chip-12/_13_ITG3200_ADXL345_on_chip.pde",
+		"/Users/chih-hsiangchang/Downloads/_13_ITG3200_ADXL345-2/_13_ITG3200_ADXL345.pde",
+		"/Users/chih-hsiangchang/Downloads/SdFat/Sd2Card.cpp",
+		"/Users/chih-hsiangchang/Documents/Arduino/libraries/i2c.h",
+		"/Users/chih-hsiangchang/Documents/Arduino/libraries/adxl345driver/ADXL345.cpp",
+		"/Users/chih-hsiangchang/Downloads/_13_ITG3200_ADXL345_on_chip-2/_13_ITG3200_ADXL345_on_chip.pde",
+		"/Users/chih-hsiangchang/Desktop/Data_collection.txt",
+		"/Users/chih-hsiangchang/Desktop/Data_collection2.txt",
+		"/Users/chih-hsiangchang/Desktop/om (6)/Image set 30/acceration.dat",
+		"/Users/chih-hsiangchang/Desktop/acceration.dat",
+		"/Volumes/NO NAME/DIP_data collection/FeiTao/Code/lowexp.m",
+		"/Users/chih-hsiangchang/Desktop/20130611-101119LogFile.txt",
+		"/Volumes/CENTON USB/flann/src/miniflann.cpp",
+		"/Users/chih-hsiangchang/Documents/VP detection/VP detection/fit.cpp",
+		"/Users/chih-hsiangchang/Downloads/vanishingPoint_201203031-1/MSAC.cpp",
+		"/Users/chih-hsiangchang/Downloads/vanishingPoint_201203031-1/errorNIETO.cpp",
+		"/Users/chih-hsiangchang/Downloads/vanishingPoint_201203031-1/main.cpp",
+		"/Users/chih-hsiangchang/Google Drive/VP detection/VP detection/Jlinkage.cpp",
+		"/Users/chih-hsiangchang/Google Drive/VP detection/VP detection/fit.cpp",
+		"/Users/chih-hsiangchang/Downloads/supertab-master-1/Makefile",
+		"/Users/chih-hsiangchang/Desktop/test.dot",
+		"/Users/chih-hsiangchang/Downloads/VPdetection-2/FACADE_mxFitVP_x_MAX.c",
+		"/Users/chih-hsiangchang/Desktop/ICIP 2013/t_matrix_Box",
+		"/Users/chih-hsiangchang/Desktop/tt.dot ",
+		"/Users/chih-hsiangchang/Desktop/tt.dot",
+		"/Users/chih-hsiangchang/Desktop/Short statement .docx",
+		"/Users/chih-hsiangchang/Downloads/imageLib/Image.h",
+		"/Users/chih-hsiangchang/Downloads/imageLib/Image.cpp",
+		"/Users/chih-hsiangchang/Downloads/MRF2-4.2/graph.cpp",
+		"/Users/chih-hsiangchang/Desktop/20130406-203459LogFile.txt",
+		"/Users/chih-hsiangchang/Downloads/gco-v3.0/LinkedBlockList.cpp",
+		"/Users/chih-hsiangchang/Desktop/MHCI/tmatix_mb.txt",
+		"/Users/chih-hsiangchang/Desktop/dataww.txt",
+		"/Users/chih-hsiangchang/Desktop/MHCI/t_matrix_ww.txt",
+		"/Users/chih-hsiangchang/Desktop/data_fl.txt",
+		"/openfinal/openfinal/bundler-v0.4-source/src/BundlerGeometry.cpp",
+		"/Users/chih-hsiangchang/Downloads/VPdetection-1/JLinkage/clusterPoints.m",
+		"/Users/chih-hsiangchang/Downloads/VPdetection-1/main.m",
+		"/Users/chih-hsiangchang/Desktop/demo.m",
+		"/Users/chih-hsiangchang/Desktop/tste_Gra.txt",
+		"/Users/chih-hsiangchang/Downloads/disco-bp/bp-trans-common.h",
+		"/Users/chih-hsiangchang/Downloads/disco-bp/bp-trans.cpp",
+		"/Users/chih-hsiangchang/Downloads/disco-bp/DLib/DMatrix.cpp",
+		"/Users/chih-hsiangchang/Library/Application Support/Sublime Text 2/Packages/User/PDFLATEX.sublime-build",
+		"/Users/chih-hsiangchang/Downloads/bundler-v0.1-source/src/BundleAdd.cpp",
+		"/cube.in",
+		"/opencvtest/opencvtest/opencvtest/opencv2/core/core_c.h",
+		"/opt/local/include/opencv2/flann/allocator.h",
+		"/OpenCV-2.3.1/modules/flann/include/opencv2/flann/defines.h",
+		"/Users/chih-hsiangchang/Downloads/GLSL_Examples_PartA/a very easy example/ogl3.cpp",
+		"/openfinal/openfinal/bundler-v0.4-source/lib/sfm-driver/sfm.c",
+		"/Users/chih-hsiangchang/Google Drive/Research_folder_05_21_morning/test_1/test_1/bundle.c",
+		"/Users/chih-hsiangchang/Downloads/tutors-2/transformation.c",
+		"/Users/chih-hsiangchang/Desktop/OpenGl_assigment/Glutmenu",
+		"/Users/chih-hsiangchang/Desktop/OpenGl_assigment/Orbit_rotation ",
+		"/Users/chih-hsiangchang/Desktop/OpenGl_assigment/OpenGl_assigment_1",
+		"/openfinal/openfinal/bundler-v0.4-source/src/BundleAdd.cpp",
+		"/Research_folder/test_1/test_1/sfm.h",
+		"/Research_folder/test_1/test_1/Bundle_1.h",
+		"/Users/chih-hsiangchang/Desktop/2D_1",
+		"/Users/chih-hsiangchang/Desktop/2D_2",
+		"/Users/chih-hsiangchang/Desktop/3D_2",
+		"/Users/chih-hsiangchang/Desktop/3D_1",
+		"/Users/chih-hsiangchang/Google Drive/plyfile/box4_3.ply",
+		"/Users/chih-hsiangchang/Desktop/boxposition1.dat",
+		"/Users/chih-hsiangchang/Desktop/boxposition.dat",
+		"/Users/chih-hsiangchang/Desktop/position.dat",
+		"/Users/chih-hsiangchang/Google Drive/plyfile/box4_1.ply",
+		"/Users/chih-hsiangchang/Google Drive/PLY_file /box3_1.ply",
+		"/Users/chih-hsiangchang/Google Drive/PLY_file /box4.ply",
+		"/test.ply",
+		"/Volumes/NO NAME/test1.ply",
+		"/Users/chih-hsiangchang/Desktop/positioncane.dat",
+		"/2D_1.txt",
+		"/2D_2.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"reprojectionerror",
+			"390 313",
+			"add_track",
+			"st_Camera_RefineMain",
+			" st_Camera_RefineMain",
+			"SURF_feature_matching",
+			"Writting_Epipolar_Geometry",
+			"_2Dindexfor_alighment",
+			"CameraParameter_Process",
+			" CameraParameter_Process",
+			"egomotion",
+			"egomotio",
+			"1.12612",
+			"-0.632479",
+			"2.11834",
+			"error_twoview",
+			"1.14568 0.699227 -5.72754",
+			"error_tr",
+			"check",
+			"_2Dalighment",
+			"DeltaVector",
+			"DeltaVector_Ransac",
+			"Delta",
+			"0265",
+			"DeltaVector_Ransac",
+			"Apical",
+			"DeltaVector_Ransac",
+			"minimum error",
+			"9622",
+			"9750",
+			"Euclidence_3D",
+			"main",
+			"_3Dtriangulation_N_main",
+			"_3Dtriangulation_2_frames",
+			"trian",
+			"Delta",
+			" _3Dtriangulation_N_frames",
+			"FROM",
+			"from new_",
+			"from new_ two triangulation",
+			"_3Dtriangulation_2_frames",
+			"from new_ two",
+			"from new_ two triangulation",
+			" _3Dtriangulation_3_frames",
+			"_3Dtriangulation_N_main",
+			"_3Dtriangulation_3_frames",
+			"_3Dtriangulation_2_frames",
+			"delta",
+			"triangul",
+			"triangulation_2",
+			"align_horn_3D_2",
+			"align_3D_rotation_ransac",
+			"align_3D_rotation",
+			"align_3D_rotation_ransac",
+			"align",
+			"Ransac",
+			"triangulation",
+			"align_3D_rotation",
+			"align_3D_rotation_ransac",
+			"align_horn_3D_2",
+			"2d_a",
+			"deltavector",
+			"\nDeltaVector",
+			"\nDeltaVector_Ransca",
+			"deltavector",
+			"ransac",
+			"align_horn_3D_2",
+			"align_horn_3D",
+			"align_horn_3D_2",
+			"ransac",
+			"align_3D_rotation_ransac",
+			"align_horn_3D_2",
+			" align_horn_3D_2",
+			"align_horn_3D_2",
+			"right",
+			"rigth",
+			"align_3D_rotation_ransac",
+			"ransac_thresh",
+			"align_horn_3D_2",
+			"d_027",
+			"align_horn",
+			"cam.position",
+			"EstimateTransform",
+			"align_horn",
+			"DecomposeHomography",
+			"EstimateTransform",
+			"homo",
+			"twoKi",
+			"AHRSupdate",
+			"sens",
+			"arr3_rad_to_deg",
+			"getQ",
+			"DEBUG_PRINT",
+			"GETVALUES",
+			"DEBUG_PRINT",
+			"getValues",
+			"zeroGyro",
+			"getRawValues",
+			"GETvALUES",
+			"DEBUG",
+			"debug",
+			"DEBUG",
+			"getQ",
+			"getYawPitchRoll",
+			"getYawPitchRollRad",
+			"PWRMGM",
+			"readmem",
+			"readTemp",
+			"45",
+			"38",
+			"33",
+			"15",
+			"75",
+			"4",
+			"0",
+			"4",
+			"0",
+			"ite",
+			"88",
+			"85",
+			"88",
+			"85",
+			"GetMinimalSampleSet",
+			"18",
+			"merg",
+			"NvCluster",
+			"_NvCluster",
+			"Cluster_Initilization_N"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.615651261859,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
