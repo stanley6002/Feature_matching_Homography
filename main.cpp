@@ -76,7 +76,7 @@ void Function_selection(Function eColor)
 int main(int argc, char** argv)
 {
    
-    Function_selection(Fast_Features);
+    Function_selection(LK_Features);
     
     int  Img_width=  320;
     int  Img_height= 240;
@@ -146,7 +146,7 @@ int main(int argc, char** argv)
                         
                         if (LK_features==1)
                         {
-                           LKFeatures LKFeatures (imgGrayB,imgGrayA);
+                            LKFeatures LKFeatures (imgGrayB,imgGrayA, LKFeatures.BRIEF_descriptor);
                             
                            std::vector<CvPoint2D32f> match_query; 
                            std::vector<CvPoint2D32f> match_train;
@@ -156,6 +156,8 @@ int main(int argc, char** argv)
                            int size_match= (int) match_query.size();
                            CvPoint *pt_new_query = new CvPoint [size_match];
                            CvPoint *pt_new_train= new CvPoint [size_match];
+                            
+                           cout<<"size_"<< size_match<<endl;
                             
                             for(int i=0 ; i<size_match;i++)
                             {
@@ -178,7 +180,7 @@ int main(int argc, char** argv)
                       
                   {
                         
-                      FAST_ FAST_ (30, imgGrayA, imgGrayB);
+                      FAST_ FAST_ (40, imgGrayA, imgGrayB, FAST_.SURF_descriptor);
                       std::vector<CvPoint2D32f> match_query;
                       std::vector<CvPoint2D32f> match_train;
                       FAST_.FAST_tracking(match_query, match_train);
@@ -186,6 +188,8 @@ int main(int argc, char** argv)
                       int size_match= (int) match_query.size();
                       CvPoint *pt_new_query = new CvPoint [size_match];
                       CvPoint *pt_new_train= new CvPoint [size_match];
+                      
+                    
                       
                       for(int i=0 ; i< size_match;i++) 
                       {
